@@ -2,4 +2,4 @@
 
 Let's get started!
 
-> Some action (here)[/Action/Thing.md]
+> Some action [here](/Action/Thing.md)
